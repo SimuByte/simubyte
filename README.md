@@ -1,4 +1,4 @@
-## Hi there 👋
+Pagina web dedicada al desarrollo de software.
 
 <!--
 **SimuByte/simubyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
